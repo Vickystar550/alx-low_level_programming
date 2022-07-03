@@ -10,3 +10,5 @@ THE 0x00-hello_world SCRIPTS DESCRIPTION:
 
 4-puts.c prints to the 	STDOUT using the puts function
 
+5-printf.c prints to the STDOUT using the printf function
+
