@@ -7,6 +7,5 @@
  */
 int main(void)
 {
-	printf("This is 0-preprocessor C file");
 	return (0);
 }
