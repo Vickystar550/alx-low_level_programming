@@ -16,3 +16,5 @@ THE 0x00-hello_world SCRIPTS DESCRIPTION:
 
 100-intel generate an assembly code (intel syntax) of a C code and save it to a file
 
+101-quote.c prints a string to the standard error
+
