@@ -14,3 +14,5 @@ THE 0x00-hello_world SCRIPTS DESCRIPTION:
 
 6-size.c print the size of various type on the computer
 
+100-intel generate an assembly code (intel syntax) of a C code and save it to a file
+
