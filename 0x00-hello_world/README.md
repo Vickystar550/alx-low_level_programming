@@ -8,3 +8,5 @@ THE 0x00-hello_world SCRIPTS DESCRIPTION:
 
 3-name create an executable file from a compiled C file
 
+4-puts.c prints to the 	STDOUT using the puts function
+
