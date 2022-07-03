@@ -12,3 +12,5 @@ THE 0x00-hello_world SCRIPTS DESCRIPTION:
 
 5-printf.c prints to the STDOUT using the printf function
 
+6-size.c print the size of various type on the computer
+
