@@ -1,30 +1,24 @@
 #include <stdio.h>
 
 /**
-  * print_alphabet - Make alphabet
+  * print_alphabet_x10 - Print alphabet on ten lines
   *
-  * print_alphabet_x10 - Print the result from print_alphabet 10 times
-  *
-  * Return: void by both functions
+  * Return void
   */
-void print_alphabet(void)
-{
-	char c;
-
-	for (c = 'a'; c <= 'z'; c++)
-	{
-		putchar(c);
-	}
-
-	putchar('\n');
-}
-
 void print_alphabet_x10(void)
 {
-	int i;
+	char c;
+	int k = 0;
 
-	for (i = 1; i <= 10; i++)
+	while (k <= 9)
 	{
-		print_alphabet();
+		for (c = 'a'; c <= 'z'; c++)
+		{
+			putchar(c);
+		}
+
+		putchar('\n');
+
+		k++;
 	}
 }
